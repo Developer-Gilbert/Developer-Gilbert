@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=gichul's%20Github&fontSize=60"  style ="width : 1000px; height:400px"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Gilbert%20Github&fontSize=60"  style ="width : 1000px; height:400px"/>
 </div>
 
 
@@ -27,4 +27,8 @@
 
 
 
+<div align=left>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Gilbert&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=Developer-Gilbert&show_icons=true">
+</div>
 
